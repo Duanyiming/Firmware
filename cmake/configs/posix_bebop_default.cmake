@@ -13,6 +13,7 @@ set(config_module_list
 	#
 	# Board support modules
 	#
+	drivers/boards/bebop
 	drivers/device
 	drivers/linux_sbus
 	modules/sensors
